@@ -1,3 +1,2 @@
-ByeDPI 0.15 from hufrea/byedpi
-Arguments from #172-dovecoteescapee/ByeDPIAndroid by impayru
-
+- ByeDPI 0.15 from [hufrea/byedpi](https://github.com/hufrea/byedpi)
+- Arguments from [#172-dovecoteescapee/ByeDPIAndroid](https://github.com/dovecoteescapee/ByeDPIAndroid/issues/172#issuecomment-2428629330) by impayru
